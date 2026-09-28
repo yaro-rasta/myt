@@ -1,4 +1,4 @@
-[← Назад: 03. Наукове обґрунтування](./03-sext-science.md) | [Головна (Зміст)](./README.md) | [Беклог →](./backlog.md) | [English](./en/04-sint-data.md)
+[← Назад: 03. Наукове обґрунтування](./03-sext-science.md) | [Головна (Зміст)](./README.md) | [Наступна: 05. Деструктори та Очищення →](./05-destructors.md) | [English](./en/04-sint-data.md)
 
 ---
 
