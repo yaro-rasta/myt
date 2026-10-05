@@ -94,4 +94,5 @@ flowchart TD
 ---
 
 **Попередня глава:** [11-singularity-ai.md](./11-singularity-ai.md) (Сингулярність і ШІ)  
+**Наступна глава:** [13-reality-reactions.md](./13-reality-reactions.md) (Реальність: Воля, Віра та Механіка Реакцій)  
 **Зміст:** [README.md](./README.md)
