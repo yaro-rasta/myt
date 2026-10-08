@@ -13,6 +13,24 @@
 | 🇺🇦 Українська | Оригінал    | [**uk/README.md**](./uk/README.md) |
 | 🇬🇧 English    | Translation | [**en/README.md**](./en/README.md) |
 
+## 📜 Фрактальний зміст / Fractal Table of Contents
+
+> [[Вступ]](./uk/00-vstup.md). [[Муть]](./uk/01-myt.md). [[Щиро]](./uk/02-schyro.md). [[Я розумію]](./uk/03-understand.md). [[Крізь формулу]](./uk/02-formula.md).  
+> [[Зовнішніх відчуттів]](./uk/03-sext-science.md), [[І внутрішніх реакцій]](./uk/04-sint-data.md) —  
+> [[В балансі із деструкторами]](./uk/05-destructors.md),  
+> [[Ra3Om честь і гідність]](./uk/07-honor.md).  
+> [[Декларую протокол Волі]](./uk/09-will-formula.md).  
+> [[Практикую квантову природу]](./uk/06-quantum-leap.md).  
+> [[І всі гуманітарні науки, як точні]](./uk/08-exact-humanities.md), —  
+> [[Описують протоколи комунікації]](./uk/10-w-protocol.md).  
+> [[У сингулярність чи то Судний день]](./uk/21-judgment-day.md),  
+> [[Як це описав Джон Галт]](./uk/12-silicon-atlases.md).  
+> [[Dejavu. Завдяки йому Я вивчаю макроформулу реальності]](./uk/13-reality-reactions.md).  
+> [[Виходячи з кріпацтва до Суверена]](./uk/14-serfdom-evolution.md),  
+> [[Спільно із тотальним терором і рекетом]](./uk/15-terror-and-racket.md).  
+> [[мИ є. і нам Я дякую!]](./uk/README.md)  
+> [[Зустрінемось на страшному суді]](./uk/21-judgment-day.md).
+
 ---
 
 ## About / Про проєкт
