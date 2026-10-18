@@ -18,14 +18,19 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
 
-      - name: Install md-to-pdf
-        run: npm install -g md-to-pdf
+      - name: Install Puppeteer dependencies and Chromium
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y chromium-browser libgbm-dev
+          npm install -g md-to-pdf
 
       - name: Compile Law PDFs
         run: |
           mkdir -p release_assets
+          export PUPPETEER_EXECUTABLE_PATH=$(which chromium-browser || which chromium || which google-chrome)
+          echo "Using Chromium at: $PUPPETEER_EXECUTABLE_PATH"
           # Знаходимо всі шаблони та аналітичні матеріали
           FILES=(
             "uk/law/ua/evasion-law-analysis.md"
@@ -43,9 +48,11 @@ jobs:
           for f in "${FILES[@]}"; do
             if [ -f "$f" ]; then
               echo "Compiling $f..."
-              md-to-pdf "$f"
+              md-to-pdf "$f" --launch-options '{"executablePath":"'"$PUPPETEER_EXECUTABLE_PATH"'","args":["--no-sandbox","--disable-setuid-sandbox","--disable-gpu","--disable-dev-shm-usage"]}'
               pdf_file="${f%.md}.pdf"
-              cp "$pdf_file" release_assets/
+              if [ -f "$pdf_file" ]; then
+                cp "$pdf_file" release_assets/
+              fi
             fi
           done
 
