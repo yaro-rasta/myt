@@ -1,0 +1,56 @@
+name: Release Legal PDFs
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install md-to-pdf
+        run: npm install -g md-to-pdf
+
+      - name: Compile Law PDFs
+        run: |
+          mkdir -p release_assets
+          # Знаходимо всі шаблони та аналітичні матеріали
+          FILES=(
+            "uk/law/ua/evasion-law-analysis.md"
+            "uk/law/ua/playbook-stages.md"
+            "uk/law/ua/templates/plan-kidnapping-action.md"
+            "uk/law/ua/templates/statement-court-art206-kpk.md"
+            "uk/law/ua/templates/statement-kidnapping.md"
+            "uk/law/ua/templates/statement-vlk-refusal-captivity.md"
+            "uk/law/ua/templates/report-refusal-illegal-order.md"
+            "uk/law/ua/templates/report-longterm-hostage-refusal.md"
+            "uk/law/ua/templates/lviv/statement-kidnapping-dbr-lviv.md"
+            "uk/law/intl/03-international-appeals-contacts.md"
+            "uk/law/intl/04-urgent-appeal-template.md"
+          )
+          for f in "${FILES[@]}"; do
+            if [ -f "$f" ]; then
+              echo "Compiling $f..."
+              md-to-pdf "$f"
+              pdf_file="${f%.md}.pdf"
+              cp "$pdf_file" release_assets/
+            fi
+          done
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: release_assets/*.pdf
+          generate_release_notes: true

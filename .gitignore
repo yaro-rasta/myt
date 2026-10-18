@@ -1,1 +1,4 @@
 private/
+*.pdf
+release_assets/
+.DS_Store
