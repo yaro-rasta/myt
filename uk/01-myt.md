@@ -1,4 +1,4 @@
-[← Назад: 00. Вступ](./00-vstup.md) | [Головна (Зміст)](./README.md) | [Наступна: 02. Формула →](./02-formula.md) | [English](./en/01-myt.md)
+[Головна (Зміст)](./README.md) | [Наступна: 02. Щиро. Я розумію →](./02-schyro-understand.md) | [English](./en/01-myt.md)
 
 ---
 

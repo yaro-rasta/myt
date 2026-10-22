@@ -15,14 +15,14 @@
 
 ## 📜 Фрактальний зміст / Fractal Table of Contents
 
-> [[Вступ]](./uk/00-vstup.md). [[Муть]](./uk/01-myt.md). [[Щиро]](./uk/02-schyro.md). [[Я розумію]](./uk/03-understand.md). [[Крізь формулу]](./uk/02-formula.md).  
-> [[Зовнішніх відчуттів]](./uk/03-sext-science.md), [[І внутрішніх реакцій]](./uk/04-sint-data.md) —  
-> [[В балансі із деструкторами]](./uk/05-destructors.md),  
-> [[Ra3Om честь і гідність]](./uk/07-honor.md).  
-> [[Декларую протокол Волі]](./uk/09-will-formula.md).  
-> [[Практикую квантову природу]](./uk/06-quantum-leap.md).  
-> [[І всі гуманітарні науки, як точні]](./uk/08-exact-humanities.md), —  
-> [[Описують протоколи комунікації]](./uk/10-w-protocol.md).  
+> [[Муть]](./uk/01-myt.md). [[Щиро]](./uk/02-schyro-understand.md). [[Я розумію]](./uk/02-schyro-understand.md). [[Крізь формулу]](./uk/03-formula.md).  
+> [[Зовнішніх відчуттів]](./uk/04-sext-science.md), [[І внутрішніх реакцій]](./uk/05-sint-data.md) —  
+> [[В балансі із деструкторами]](./uk/06-destructors.md),  
+> [[Ra3Om честь і гідність]](./uk/08-honor.md).  
+> [[Декларую протокол Волі]](./uk/10-will-formula.md).  
+> [[Практикую квантову природу]](./uk/07-quantum-leap.md).  
+> [[І всі гуманітарні науки, як точні]](./uk/09-exact-humanities.md), —  
+> [[Описують протоколи комунікації]](./uk/11-w-protocol.md).  
 > [[У сингулярність чи то Судний день]](./uk/21-judgment-day.md),  
 > [[Як це описав Джон Галт]](./uk/12-silicon-atlases.md).  
 > [[Dejavu. Завдяки йому Я вивчаю макроформулу реальності]](./uk/13-reality-reactions.md).  

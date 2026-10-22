@@ -22,9 +22,9 @@
 |---|---|---|
 | `00` | [00-intro.md](./00-intro.md) | **Introductory Letter & «The Murk»** (Cannibalistic War System vs The Co-creation of Artists) |
 | `01` | [01-myt.md](./01-myt.md) | **The mYt: Desynchronization & DNA Programming** (Quantum present moment perception) |
-| `02` | [02-formula.md](./02-formula.md) | **Mathematical Formula of Consciousness** ($\hat{H}_{eff}$, Synchronization Coeff $\Sigma$, Phase Transition $\Phi$) |
-| `03` | [03-sext-science.md](./03-sext-science.md) | **Scientific Foundations of 7 External Senses** (Physical ranges, Council of 11 Sages evaluation) |
-| `04` | [04-sint-data.md](./04-sint-data.md) | **Data Architecture of Internal Senses** (Binary & 8-bit gradient storage, 1-12 bytes/instant) |
+| `02` | [03-formula.md](./03-formula.md) | **Mathematical Formula of Consciousness** ($\hat{H}_{eff}$, Synchronization Coeff $\Sigma$, Phase Transition $\Phi$) |
+| `03` | [04-sext-science.md](./04-sext-science.md) | **Scientific Foundations of 7 External Senses** (Physical ranges, Council of 11 Sages evaluation) |
+| `04` | [05-sint-data.md](./05-sint-data.md) | **Data Architecture of Internal Senses** (Binary & 8-bit gradient storage, 1-12 bytes/instant) |
 
 ---
 
