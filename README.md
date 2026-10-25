@@ -1,6 +1,6 @@
-# мИть / myT
+# мИть / mo•we•ment
 
-> **Book / Книга:** «мИть» — Quantum-Psychological Model of Consciousness
+> **Book / Книга:** «мИть» / «mo•we•ment» — Quantum-Psychological Model of Consciousness
 > **Course / Курс:** «Superintellect / Суперінтелект»
 > **Author / Автор:** Will-N-I
 
@@ -23,7 +23,7 @@
 > [[Практикую квантову природу]](./uk/07-quantum-leap.md).  
 > [[І всі гуманітарні науки, як точні]](./uk/09-exact-humanities.md), —  
 > [[Описують протоколи комунікації]](./uk/11-w-protocol.md).  
-> [[У сингулярність чи то Судний день]](./uk/21-judgment-day.md),  
+> [[У сингулярність чи то Судний день]](./uk/18-judgment-day.md),  
 > [[Як це описав Джон Галт]](./uk/12-silicon-atlases.md).  
 > [[Dejavu. Завдяки йому Я вивчаю макроформулу реальності]](./uk/13-reality-reactions.md).  
 > [[Виходячи з кріпацтва до Суверена]](./uk/14-serfdom-evolution.md),  
@@ -32,13 +32,13 @@
 > [[Спостерігаючи неминуче падіння Вавилону]](./uk/17-fall-of-babylon.md).  
 > [[Правова основа та інструменти Суверена]](./uk/law/README.md).  
 > [[мИ є. і нам Я дякую!]](./uk/README.md)  
-> [[Зустрінемось на страшному суді]](./uk/21-judgment-day.md).
+> [[Зустрінемось на страшному суді]](./uk/18-judgment-day.md).
 
 ---
 
 ## About / Про проєкт
 
-**«мИть» / «myt» or «moment»** is a fundamental interdisciplinary scientific-philosophical work describing human consciousness, perception, and consensual interaction through quantum formalism (Schrödinger equation, effective Hamiltonian $\hat{H}_{eff}$) and a 12-component sensory matrix.
+**«мИть» / «mo•we•ment»** (Movement of Mind / We-in-the-Moment) is a fundamental interdisciplinary scientific-philosophical work describing human consciousness, perception, and consensual interaction through quantum formalism (Schrödinger equation, effective Hamiltonian $\hat{H}_{eff}$) and a 12-component sensory matrix.
 
 The conceptual model of harmony and perception (analogy of 12 piano keys in an octave):
 
