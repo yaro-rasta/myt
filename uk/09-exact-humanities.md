@@ -85,7 +85,10 @@
 
 Точність у Гільбертовому просторі свідомості визначається не скалярною відстанню між числами, а косинусною подібністю між вектором щирого наміру душі $|\vec{V}_{\text{намір}}\rangle$ та реалізованим вектором дії $|\vec{V}_{\text{дія}}\rangle$:
 
-$$\text{Precision}(\psi) = \frac{\langle \vec{V}_{\text{намір}} \mid \vec{V}_{\text{дія}} \rangle}{\|\vec{V}_{\text{намір}}\| \cdot \|\vec{V}_{\text{дія}}\|} = \cos(\theta)$$
+$$\begin{aligned}
+\text{Precision}(\psi) &= \frac{\langle \vec{V}_{\text{намір}} \mid \vec{V}_{\text{дія}} \rangle}{\|\vec{V}_{\text{намір}}\| \cdot \|\vec{V}_{\text{дія}}\|} \\
+&= \cos(\theta)
+\end{aligned}$$
 
 Де:
 - $\theta$ — кут розсинхрону між внутрішньою правдою (душею) та зовнішнім проявом у світі;
